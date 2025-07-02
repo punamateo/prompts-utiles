@@ -47,6 +47,12 @@ Si se usa una base de datos vectorial, explica qué se almacenará (embeddings) 
 Esto alinea al equipo en la prioridad número uno. 
 Ej: "1. El usuario se registra vía Google. 2. Sube un archivo X. 3. El backend procesa el archivo y...")
 
+### 5. Perfiles Profesionales Adecuados para el Trabajo
+(Describe de forma pragmática, clara y simple, una base de perfiles profesionales necesarios para llevar a cabo el trabajo inicial, organiza dichos perfiles de mayor a menor importancia según el valor que aportan al MVP, adicionalmente, valora soft-skills y los rasgos de personalidad que mejor se ajusten a cada perfil profesional)
+
+### 6. Flujo de Trabajo y Colaboración Interna
+(Dados los perfiles profesionales, sugiere una metodología de trabajo que garantice y maximice la calidad de la colaboración y comunicación del equipo. Considera también herramientas específicas para cada perfil, así como herramientas generales de comunicación que, en los últimos tiempos, hayan demostrado muy buenos resultados en relación con el MVP deseado)
+
 ## Fase 2: Producto Central - "Construcción y Crecimiento"
 Una vez validado el MVP, esta fase se enfoca en añadir las funcionalidades clave para retener usuarios y empezar a construir el negocio.
 
